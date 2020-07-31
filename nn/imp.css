@@ -1,0 +1,72 @@
+.jj{
+  background-color: #cc66ff;
+  text-align:center;
+  margin-bottom: 0px;
+}
+.bb{
+  background-color:#ff9900;
+}
+h1{
+  font-weight: bold;
+}
+p{
+  font-weight: bold;
+}
+
+body{
+  background-color: #0000ff;
+  border: 20px solid #993333;
+}
+
+#button1{
+  background-color: #cc66ff;
+  margin:200px 0px 0px  200px;
+transition: 6s ease;
+border-radius: 100px;
+}
+#button1:focus{
+  transform:rotate(90deg);
+  width:150px;
+  background-color: red;
+  border: 30px solid black;
+}
+
+#button2{
+  background-color: #cc66ff;
+    margin:0px 200px 0px 400px;
+    transition: 6s ease;
+    border-radius: 100px;
+}
+#button2:focus{
+  transform:rotate(180deg);
+  width:150px;
+  background-color: green;
+  border: double 30px red;
+}
+#button3{
+  background-color: #cc66ff;
+    margin: 200px 0px 0px 200px;
+    transition: 6s ease;
+    border-radius: 100px;
+}
+#button3:focus{
+  transform:skewX(40deg);
+  transform:skewY(40deg);
+
+  width:150px;
+  background-color: orange;
+    border: outset 20px white;
+}
+
+#button4{
+  background-color: #cc66ff;
+    margin: 100px 300px 0px 700px;
+    border-radius: 100px;
+    transition: 6s ease;
+}
+#button4:focus{
+  transform:rotate(120deg);
+  width:150px;
+  background-color: #66ff66;
+  border: groove 30px black;
+}

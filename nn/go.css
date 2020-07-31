@@ -1,0 +1,95 @@
+.jj{
+background-color: #0000ff;
+text-align:center;
+}
+h1{
+  font-weight: bold;
+  font-family: fantasy;
+}
+p{
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+}
+body{
+    background-color: #cc66ff;
+    border:20px solid #ff9900;
+}
+td{
+  height:100px;
+  width:100px;
+  text-align: center;
+}
+table{
+  margin-left: 600px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+  background-color:  #ff9900;
+  margin-bottom: 10px;
+
+}
+#a
+{
+  border-right: 5px solid black;
+  border-bottom: 5px solid black;
+
+}
+#b
+{
+  border-right:5px solid black ;
+  border-bottom: 5px solid black  ;
+  border-left:5px solid black  ;
+
+}
+#c
+{
+
+  border-bottom:5px solid black   ;
+  border-left:5px solid black  ;
+
+}
+#d
+{
+  border-top:5px solid black  ;
+  border-right:5px solid black ;
+  border-bottom:5px solid black   ;
+
+}
+#e
+{
+  border-top: 5px solid black ;
+  border-right:5px solid black ;
+  border-bottom: 5px solid black  ;
+  border-left:5px solid black  ;
+
+}
+#f{
+  border-top:5px solid black  ;
+
+  border-bottom: 5px solid black  ;
+  border-left:5px solid black  ;
+
+}
+#g
+{
+  border-top:5px solid black  ;
+  border-right:5px solid black ;
+
+
+}
+#h
+{
+  border-top:5px solid black  ;
+  border-right:5px solid black ;
+
+  border-left:5px solid black  ;
+
+}
+#i
+{
+  border-top:5px solid black  ;
+
+  border-left: 5px solid black ;
+
+}
